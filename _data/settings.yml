@@ -1,13 +1,13 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  
+
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
 menu:
-- {name: 'Posts',  url: 'posts'}
-- {name: 'About',              url: 'about'}
+- {name: 'Voyage au japon',  url: 'japon'}
+- {name: 'À propos',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
