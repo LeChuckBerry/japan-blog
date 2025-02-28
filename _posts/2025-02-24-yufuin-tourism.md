@@ -36,7 +36,38 @@ Verdict ? À faire ! Voici d'ailleurs la photo d'une fouine dans son habitat nat
 
 ### Les onsen ! 
 
-<!-- TODO: ADD Yonotsubo and private onsen pictures -->
+Après tout, c'est la raison pour laquelle Yufuin est réputée non ? En restant au Harappa Café, j'ai eu la chance d'avoir accès à un Onsen semi-privé détenu par la famille de Ryuji-San. Comme il n'y avait pas de douche dans la maison des Woofers, je l'ai fréquenté à presque tous les jours. Quoi de mieux qu'une relaxation dans l'eau thermale après une journée en cuisine ? 
+
+Pour des raisons de vie respect de la vie privée des propriétaires, je n'ai malheureusement pas pris de photo de l'endroit. 
+
+![Yonotsubo Onsen]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_yonotsubo_onsen.jpg)
+
+J'ai aussi fréquenté un autre onsen, public cette fois-ci: le Yonotsubo onsen. Personne à l'accueil, et une simple boîte à l'entrée pour percevoir le maigre droit d'entrée, soit à peine 2$. À ce prix, contrairement à bien d'autres onsen, aucun produit d'hygiène n'est fourni pour la douche. À l'intérieur, deux simples sources d'eau froide courante, des bancs et des bols de plastique, ainsi qu'un achalandange local surtout composé de gentils *oba-san* et *oji-san*. 
+
+![L'intérieur du Yonotsubo Onsen]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_yonotsubo_onsen_inside.jpg)
+
+Hygiène ? Douche ? Se laver ? J'oubliais l'obligatoire guide 101 des onsen japonais.
+
+#### Onsen 101
+
+- D'abord, se diriger dans le vestiaires correspondant à son sexe assigné. 
+    - Malheureusment, le concept de non-binarité du genre n'est pas vraiment reconnu dans les onsen traditionels.
+    - Cependant, de plus en plus de onsens mixtes commencent à voir le jour au Japon.  
+    - Très important: retirer ses chaussures avant d'entrer. Habituellement, un casier est fournis à cet effet
+- Ensuite, se dévêtir et ranger ses possessions dans un casier prévu à cet effet
+- Une étape cruciale: se doucher. Il est très important d'entrer dans l'eau seulement après avoir bien nettoyé son corps. L'eau du onsen servant à se purifier, il est donc crucial de conserver sa qualité. 
+    - Généralement, des douchettes et des robinets sont disponibles dans une aire ouverte. On s'assoit sur un des bancs prévus à cet effet, on se frotte bien le corps, et on utilise la douche pour se rincer
+    - Parfois, l'eau est froide. Pour rendre le processus plus confortable, on peut utiliser un des bols et prendre de l'eau directement du bassin chaud, et se rincer avec.
+    - On doit souvent faire sa toilette avec d'autres étrangers nus à côté. Ça peut effectivement être gênant, mais on s'y fait rapidement. Si c'est trop pour vous, les onsen privés existent! 
+- Optionellement, on peut se verser de l'eau thermale sur plusieurs parties du corps à l'aide d'un des bols. Cette étape sert à s'acclimater à la température de l'eau
+- Finalement: relaxer dans l'eau! On dit que le moment idéal pour quiotter l'eau est lorsque la sueur apparaît sur le front. 
+    - À noter: on ne devrait pas laisser tremper les cheveux dans l'eau.
+
+**Important**
+
+Le guide ci-haut devrait s'appliquer à la plupart des établissements, mais n'oubliez pas que c'est la compréhension d'un nord-américain en visite pour la première fois au Japon. Plusieurs établissements ont des règles légèrement différentes, et il est important de se rensigner en cas de doute. Par exemple, plusieurs établissements ne tolèrent pas les tatous. 
+
+Bonne relaxation ! 
 
 ### Les sanctuaires 
 
@@ -49,8 +80,6 @@ J'ai visité le sanctuaire Oogosha, qui se situe au nord de la ville. Je suis to
 [Le majestueux cèdre]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_cedre.jpg)
 
 Je recommande de prendre le temps de visiter les sanctuaires disséminés un peu partout sur le territoire, particulièrement les moins touristiques comme celui-ci, c'est une expérience qui vaut le détour. 
-
-### Village floral 
 
 ### Les petits musées 
 
@@ -65,6 +94,12 @@ Mention honorable au musée [Artegio](https://www.discover-oita.com/en/destinati
 [Une oeuvre de Teppei Ujiyama, prise au musée Artegio]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_ujiyama.jpg)
 
 ### La rue Yonotsubo 
+
+### Autres attractions que j'aurais aimé visiter 
+
+- Le comico art musem 
+- Un des ryokan tradiotionels de la ville 
+- Le village floral (un triste oubli de ma part)
 
 
 
