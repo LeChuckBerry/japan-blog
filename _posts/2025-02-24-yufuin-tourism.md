@@ -95,6 +95,12 @@ Mention honorable au musée [Artegio](https://www.discover-oita.com/en/destinati
 
 ### La rue Yonotsubo 
 
+C'est le coeur commercial et touristique de la ville. Durant la journée, la rue est bondée de touristes en vacances. Techniquement ouverte à la circulation autombile, la rue est toutefois impossible à naviguer en voiture. On y trouve une myriade de restaurants, échoppes et boutiques souvenir. Les babioles abondent attrape-touristes abondent, mais on y trouve aussi de l'artisanat et plusieurs produits agroalimentaires fins. Le région d'Oita étant réputée pour ses produits laitiers, on peut y manger des variations de gâteau au fromage et de la crème glacée un peu partout. Diverses nourriture de rues sont vendues : croquettes frites, dango, chips de patate douces ... on 'sy croirait poresque dans une foire. 
+
+[Une boutique de poterie]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_boutique.jpg)
+
+Pour être franc, ce n'est pas ce que j'ai préféré visité, mais ça vaut certainement le détour. 
+
 ### Autres attractions que j'aurais aimé visiter 
 
 - Le comico art musem 
