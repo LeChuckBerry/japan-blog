@@ -22,7 +22,9 @@ Bien que ma principale occupation ici soit de cuisiner pour les clients du café
 
 ![Mont Yufu, entrée principale]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_yufudake_entrance.jpg)
 
-Comment décrire Yufuin en omettant à côté de ses sommets jumeaux, montant la garde sur le village du haut de leurs 1500 mètres ? Le mont Yufu (ou Yufudake) offre une randonnée plaisante, avec un dénivelé intéressant de 900 mètres, des paysages forestiers, des prairies ondoyantes, ainsi qu'une vue spectaculaire sur les montagnes environnantes, Beppu et le village en contrebas. 
+Comment décrire Yufuin en omettant à côté de ses sommets jumeaux, montant la garde sur le village du haut de leurs 1500 mètres ? Pour la petite histoire, quand je suis arrivé à Yufuin, je venais tout juste de terminer la dernière saison de Twin Peaks. Disons qu'avec les deux sommets et l'atmosphère très brumeuse, je me sentais dans une oeuvre lynchéenne. 
+
+Pour revenir à nos moutons, le mont Yufu (ou Yufudake) offre une randonnée plaisante, avec un dénivelé intéressant de 900 mètres, des paysages forestiers, des prairies ondoyantes, ainsi qu'une vue spectaculaire sur les montagnes environnantes, Beppu et le village en contrebas. 
 
 ![Les prairies dorées de l'hiver]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_yufudake_prairie.jpg)
 
@@ -73,11 +75,11 @@ Bonne relaxation !
 
 Comme un peu partout au Japon, Yufuin regorge de petits sanctuaire shintoé Le shintoisme est largement pratiqué par la population japonaise, souvent en parallèle avec le bouddhisme. C'est un ensemble de croyance, à la fois animiste et polythéiste, qui a d'abord été désigné comme tel pour se distinguer du bouddhisme qui a été importé de Chine alentour du 6e siècle. Ses frontières sont floues, sans texte de référence au figure fondatrice, mais ses principes se manifestent un peu partout dans la culture japonaise. Voici une bonne introduction à lire sur le sujet.
 
-[Tori du sanctuaire Oogosha]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_oogosha.jpg)
+![Tori du sanctuaire Oogosha]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_oogosha.jpg)
 
 J'ai visité le sanctuaire Oogosha, qui se situe au nord de la ville. Je suis tombé dessus par hasard en fouillant dans Google Maps. J'adore l'ambiance mystique qui règne dans ces lieux: je m'y sens drôlement détendu. Pour les initiés, les lieux me rapellent le mysticisme de la série [Mushishi](https://www.imdb.com/title/tt0807832/) (un de mes anime favoris), dont les *mushi* sont des références directes à la culture shinto. On peut y voir un majestueux cèdre millénaire, qui a de quoi à relativiser l'importance de nos petites existences de mortels. 
 
-[Le majestueux cèdre]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_cedre.jpg)
+![Le majestueux cèdre]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_cedre.jpg)
 
 Je recommande de prendre le temps de visiter les sanctuaires disséminés un peu partout sur le territoire, particulièrement les moins touristiques comme celui-ci, c'est une expérience qui vaut le détour. 
 
@@ -91,21 +93,32 @@ Lors de mon passage, on pouvait voir une rétrospective de l'artiste Teppei Fuji
 
 Mention honorable au musée [Artegio](https://www.discover-oita.com/en/destinations/beppu-and-yufuin/artegio/), situé à flanc de montagne et abritant une chocolaterie des plus raffinées. 
 
-[Une oeuvre de Teppei Ujiyama, prise au musée Artegio]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_ujiyama.jpg)
+![Une oeuvre de Teppei Ujiyama, prise au musée Artegio]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_ujiyama.jpg)
 
 ### La rue Yonotsubo 
 
 C'est le coeur commercial et touristique de la ville. Durant la journée, la rue est bondée de touristes en vacances. Techniquement ouverte à la circulation autombile, la rue est toutefois impossible à naviguer en voiture. On y trouve une myriade de restaurants, échoppes et boutiques souvenir. Les babioles abondent attrape-touristes abondent, mais on y trouve aussi de l'artisanat et plusieurs produits agroalimentaires fins. Le région d'Oita étant réputée pour ses produits laitiers, on peut y manger des variations de gâteau au fromage et de la crème glacée un peu partout. Diverses nourriture de rues sont vendues : croquettes frites, dango, chips de patate douces ... on 'sy croirait poresque dans une foire. 
 
-[Une boutique de poterie]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_boutique.jpg)
+![Une boutique de poterie]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_boutique.jpg)
 
 Pour être franc, ce n'est pas ce que j'ai préféré visité, mais ça vaut certainement le détour. 
 
 ### Autres attractions que j'aurais aimé visiter 
 
 - Le comico art musem 
-- Un des ryokan tradiotionels de la ville 
+- Un des ryokan traditionels de la ville 
 - Le village floral (un triste oubli de ma part)
+
+## Réflexions 
+
+C'était quoi pour moi Yufuin ? Je crois que c'était une étape de mon voyage qui aura été marquée par le repos. Repos physique, parce que j'ai fréquemment dormi plus de 10 heures par nuit, bien enmitouflé dans mes couvertures alors que la température chutait alentour de zéro dans ma chambre. Le paradis quoi (pour moi)! 
+
+Par-dessus tout, je crois que c'est avant mon esprit qui s'est reposé lors de mon passage au Harappa Café. Le rythme lent du quotidien, l'atmosphère enveloppante du village, les visites quotidiennes au onsen et la camaraderie du café ont conspiré pour faire du bien à mon âme. Si vous me connaissez bien, vous savez que 2024 a été une année difficile pour moi, et je crois que j'ai dissous certaines des angoisses que je traînais dans l'eau minérale des sources chaudes. J'ai senti que j'étais à ma place dans l'univers dans ce genre d'endroit. J'ai redécouvert le plaisir de cuisiner pour d'autres, expérimenter et apprendre de nouveaux horizons culinaires. J'ai fait des rencontres qui m'ont nourri. Bref, très peu de négatif et certainement un point fort de mon voyage. 
+
+Je quitte par contre avec de l'énergie à dépenser et une envie de sortir rencontrer. Je remarque que mes envies font le pendule un les moments de calme et de re-centrrement, l'appel de l'aventure, et faire la fête. Je me sens capable de suivre ce mouvement sans pression ni jugement, ce qui me rend vraiment heureux. 
+
+À suivre : Chroniques de Beppu ! 
+
 
 
 
