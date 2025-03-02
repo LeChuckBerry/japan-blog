@@ -97,7 +97,7 @@ Mention honorable au musée [Artegio](https://www.discover-oita.com/en/destinati
 
 ### La rue Yonotsubo 
 
-C'est le coeur commercial et touristique de la ville. Durant la journée, la rue est bondée de touristes en vacances. Techniquement ouverte à la circulation autombile, la rue est toutefois impossible à naviguer en voiture. On y trouve une myriade de restaurants, échoppes et boutiques souvenir. Les babioles abondent attrape-touristes abondent, mais on y trouve aussi de l'artisanat et plusieurs produits agroalimentaires fins. Le région d'Oita étant réputée pour ses produits laitiers, on peut y manger des variations de gâteau au fromage et de la crème glacée un peu partout. Diverses nourriture de rues sont vendues : croquettes frites, dango, chips de patate douces ... on 'sy croirait poresque dans une foire. 
+C'est le coeur commercial et touristique de la ville. Durant la journée, la rue est bondée de touristes en vacances. Techniquement ouverte à la circulation autombile, la rue est toutefois impossible à naviguer en voiture. On y trouve une myriade de restaurants, échoppes et boutiques souvenir. Les babioles et attrape-touristes abondent, mais on y trouve aussi de l'artisanat et plusieurs produits agroalimentaires fins. Le région d'Oita étant réputée pour ses produits laitiers, on peut y manger des variations de gâteau au fromage et de la crème glacée un peu partout. Diverses nourriture de rues sont vendues : croquettes frites, dango, chips de patate douces ... on s'y croirait presque dans une foire. 
 
 ![Une boutique de poterie]({{ site.url }}{{ site.baseurl }}/assets/img/yufuin_boutique.jpg)
 
@@ -105,17 +105,17 @@ Pour être franc, ce n'est pas ce que j'ai préféré visité, mais ça vaut cer
 
 ### Autres attractions que j'aurais aimé visiter 
 
-- Le comico art musem 
-- Un des ryokan traditionels de la ville 
-- Le village floral (un triste oubli de ma part)
+- Le [comico art musem](https://www.camy.oita.jp/) 
+- Un des nombreux ryokan traditionels de la ville 
+- Le [village floral](https://unusualplaces.org/the-english-atmosphere-hidden-in-japan-yufuin-floral-village/) (un triste oubli de ma part. Mon premier et seul regret de voyage jusqu'à maintenant)
 
 ## Réflexions 
 
 C'était quoi pour moi Yufuin ? Je crois que c'était une étape de mon voyage qui aura été marquée par le repos. Repos physique, parce que j'ai fréquemment dormi plus de 10 heures par nuit, bien enmitouflé dans mes couvertures alors que la température chutait alentour de zéro dans ma chambre. Le paradis quoi (pour moi)! 
 
-Par-dessus tout, je crois que c'est avant mon esprit qui s'est reposé lors de mon passage au Harappa Café. Le rythme lent du quotidien, l'atmosphère enveloppante du village, les visites quotidiennes au onsen et la camaraderie du café ont conspiré pour faire du bien à mon âme. Si vous me connaissez bien, vous savez que 2024 a été une année difficile pour moi, et je crois que j'ai dissous certaines des angoisses que je traînais dans l'eau minérale des sources chaudes. J'ai senti que j'étais à ma place dans l'univers dans ce genre d'endroit. J'ai redécouvert le plaisir de cuisiner pour d'autres, expérimenter et apprendre de nouveaux horizons culinaires. J'ai fait des rencontres qui m'ont nourri. Bref, très peu de négatif et certainement un point fort de mon voyage. 
+Par-dessus tout, je crois que c'est mon esprit qui s'est reposé lors de mon passage au Harappa Café. Le rythme lent du quotidien, l'atmosphère enveloppante du village, les visites quotidiennes au onsen et la camaraderie du café ont conspiré pour faire du bien à mon âme. Si vous me connaissez bien, vous savez que 2024 a été une année difficile pour moi, et je crois que j'ai dissous certaines des angoisses que je traînais dans l'eau minérale des sources chaudes. J'ai senti que j'étais à ma place dans l'univers dans ce genre d'endroit. J'ai redécouvert le plaisir de cuisiner pour d'autres, expérimenter et apprendre de nouveaux horizons culinaires. J'ai fait des rencontres qui m'ont nourri. Bref, très peu de négatif et certainement un point fort de mon voyage. 
 
-Je quitte par contre avec de l'énergie à dépenser et une envie de sortir rencontrer. Je remarque que mes envies font le pendule un les moments de calme et de re-centrrement, l'appel de l'aventure, et faire la fête. Je me sens capable de suivre ce mouvement sans pression ni jugement, ce qui me rend vraiment heureux. 
+Je quitte par contre avec de l'énergie à dépenser et une envie de sortir rencontrer. Je remarque que mon coeur fait le pendule entre d'un côté, les moments de calme et de contemplation, et de l'autre côté l'appel de l'aventure, et l'envie de faire la fête. Je me sens capable de suivre ce mouvement sans pression ni jugement, ce qui me rend vraiment heureux. Jamais je n'ai été à ce point à l'aise avec la phrase *choisir, c'est renoncer*. C'est indéniablement apaisant.
 
 À suivre : Chroniques de Beppu ! 
 
