@@ -48,7 +48,7 @@ Eh oui! C'est un plaisir très simple, mais j'ai adoré flaner dans les rues de 
 
 En sortant du quartier central de Kitahama, j'ai pu voir quelques bâtiments dans un assez piteux état. Je trouve intéressant de constater que parfois, le Japon ne correspond pas à l'image artificiellement lisse, harmonieuse et hautement fantasmée qu'on présente à l'étranger, ce qui se constate jusque dans le patrimoine bâti. Comme tout pays, le Japon comporte aussi ses propres espaces marginalisés et ses zones d'ombres.
 
-[Une maison qui a vu de meilleurs jours]({{ site.url }}{{ site.baseurl }}/assets/img/beppu_maison_ruine.jpg)
+![Une maison qui a vu de meilleurs jours]({{ site.url }}{{ site.baseurl }}/assets/img/beppu_maison_ruine.jpg)
 
 Déambuler ainsi, surtout durant le jour, m'a permis d'être témoins de plusieurs moments de quotiden; *oba-san* qui balaie sont perron, des enfants à leur pratique de baseball, des lycéennes qui se retrouvent sur la plage en soirée. Ces moments ont quelque chose d'à la fois si concret mais si intangible pour un étranger comme moi. Je me relis, et je crois que je suis un individu profondément contemplatif. 
 
