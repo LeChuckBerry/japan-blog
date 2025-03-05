@@ -56,13 +56,12 @@ Déambuler ainsi, surtout durant le jour, m'a permis d'être témoins de plusieu
 
 Un joyau caché de Beppu. Impossible de parler des attractions de la ville sans décrire un *onsen*. Il y en a des très connu, comme le légendaire établissement [Takegawara](https://www.japan.travel/fr/spot/389/), on l'on peut se faire enterrer dans le sable. 
 
-Mais évidemment, en bon hiptser qui se respecte, il me fallait trouver un endroit qui n'est que peu fréquenter par les touristes. Quoi de mieux que des sources thermales situées en forêt, accessibles par un chemin de gravier en piteux état que j'ai visité ... la nuit. L'endroit est entretenu par des bénévoles locaux passionnés et, fait rare, il est mixte, même si les consignes indique aux femmes qu'il vaut mieux porter un maillot de bain. On y trouve 4 bassins, allant du plus au moins chaud. L'eau est limpide et l'endroit est très calme. Comme il faisait nuit je n'ai pas de bonnes photos mais voici des clichés empruntés sur Internet. 
-
+Mais évidemment, en bon hiptser qui se respecte, il me fallait trouver un endroit qui n'est que peu fréquenté par les touristes. Quoi de mieux que des sources thermales situées en forêt, accessibles par un chemin de gravier en piteux état que j'ai visité ... la nuit. L'endroit est entretenu par des bénévoles locaux passionnés et, fait rare, il est mixte, même si les consignes indique aux femmes qu'il vaut mieux porter un maillot de bain. On y trouve 4 bassins, allant du plus au moins chaud. L'eau est limpide et l'endroit est très calme. Comme il faisait nuit je n'ai pas de bonnes photos mais voici des clichés empruntés sur Internet. 
 
 ![Les paysages en grimpant]({{ site.url }}{{ site.baseurl }}/assets/img/beppu_hebinoyu_paysage.jpg)
 ![Les bassins]({{ site.url }}{{ site.baseurl }}/assets/img/beppu_hebinoyu_pools.jpg)
 
-Y aller de nuit n'est pas recommandé pour celles et ceux qui ont facilement la frousse. Des pancartes indiquent en grosses lettres rouges que des crimes ont été commis dans les environs. En partant de la station de bus, il faut compter 30 minutes de transport en commun et 50 minutes de marche pour se rendre. 
+Y aller de nuit n'est pas recommandé pour celles et ceux qui ont facilement la frousse. Des pancartes indiquent en grosses lettres rouges que des crimes ont été commis dans les environs. En partant de la station de bus, il faut compter 30 minutes de transport en commun et 50 minutes de marche pour se rendre. Je recommande par contre l'endroit, qui est magnifique en soit, ne serait-ce que pour les paysages en montant.
 
 ### Space Beppu 
 
