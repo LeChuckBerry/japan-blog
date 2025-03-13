@@ -32,9 +32,13 @@ Il m'a par contre été possible d'entrevoir ce qu'est Hiroshima aujourd'hui: un
 
 ## Travailler à temps plein ... en voyage 
 
-D'abord, petit aparté. Mon passage à Hiroshima correspondait aussi avec ma première semaine de travail à temps plein depuis le début de mon voyage. Je dois le dire, malgré la pluie qu'il m'a encouragé à rester à l'intérieur dans les premiers jours, trouver la motivation n'as pas toujours été facile. 
+D'abord, petit aparté. Mon passage à Hiroshima correspondait aussi avec ma première semaine de travail à temps plein depuis le début de mon voyage. Je dois le dire, malgré la pluie qui m'a encouragé à rester à l'intérieur dans les premiers jours, trouver la motivation n'as pas toujours été facile. 
 
-Quand j'y pense, lors de mes semaines de travail ordinaires, j'attend déjà le vendredi avec impatience. Les semaines ou j'ai aussi des obligations et événements sociaux à tous les soirs, je finis épuisé. Imaginex le manque de motivation quand je suis en train de vivre un voyage dont j'ai rêvé pendant une décennie 
+Quand j'y pense, lors de mes semaines de travail ordinaires, j'attend déjà le vendredi avec impatience. Les semaines ou j'ai aussi des obligations et événements sociaux à tous les soirs, je finis épuisé. Imaginez en voyage! Je travaille généralement le matin et le soir, pour pouvoir explorer pendant l'après-midi. Quand j'avais 20 ans, je m'en sortais bien em dormant 5 heures et moins comme nuit. Aujourd'hui ... j'en ressens les conscéquences très vite. 
+
+Bref mon passage ici aura été un apprentissage pour trouver mon rythme, pour jongler avec la fatigue, mon envie de découvrir, mon obligation de travailler, et mon envie de socialiser. Tout ça est un beau défi et je dirais que j'ai trouvé mon rythme vers la fin de la semaine. La clé: me rapeller que le simple fait de pouvoir être au Japon en travaillant est un grand privilège auquel je n'aurais même jamais osé rêver il y a quelques années. C'est comme ma routine à Montréal ... mais sur la pause du dîner, je peux aller visiter un sanctuaire shinto et manger un curry udon authentique pour 8$. Tout est une question de perspective. Bref, j'accueille mon quotidien de travail/voyage avec gratitude. 
+
+![La fameux curry udon]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_curry_udon.jpg)
 
 ## Le mémorial 
 
