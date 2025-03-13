@@ -12,7 +12,17 @@ image: hiroshima_main.jpg
 
 ## Liens vers l'album ICloud
 
-Si vous voulez consulter mes photos / vidéos pris durant cette partie du voyage, voici [le lien vers l'album](https://www.icloud.com/sharedalbum/#B2AGY8gBYKRjXeM). 
+Si vous voulez consulter mes photos / vidéos pris durant cette partie du voyage, voici [le lien vers l'album](https://www.icloud.com/sharedalbum/#B2AGY8gBYKRjXeM).
+
+## Travailler à temps plein ... en voyage 
+
+D'abord, petit aparté. Mon passage à Hiroshima correspondait aussi avec ma première semaine de travail à temps plein depuis le début de mon voyage. Je dois le dire, malgré la pluie qui m'a encouragé à rester à l'intérieur dans les premiers jours, trouver la motivation n'as pas toujours été facile. 
+
+Quand j'y pense, lors de mes semaines de travail ordinaires, j'attend déjà le vendredi avec impatience. Les semaines ou j'ai aussi des obligations et événements sociaux à tous les soirs, je finis épuisé. Imaginez en voyage! Je travaille généralement le matin et le soir, pour pouvoir explorer pendant l'après-midi. Quand j'avais 20 ans, je m'en sortais bien em dormant 5 heures et moins comme nuit. Aujourd'hui ... j'en ressens les conscéquences très vite. 
+
+Bref mon passage ici aura été un apprentissage pour trouver mon rythme, pour jongler avec la fatigue, mon envie de découvrir, mon obligation de travailler, et mon envie de socialiser. Tout ça est un beau défi et je dirais que j'ai trouvé mon rythme vers la fin de la semaine. La clé: me rapeller que le simple fait de pouvoir être au Japon en travaillant est un grand privilège auquel je n'aurais même jamais osé rêver il y a quelques années. C'est comme ma routine à Montréal ... mais sur la pause du dîner, je peux aller visiter un sanctuaire shinto et manger un curry udon authentique pour 8$. Tout est une question de perspective. Bref, j'accueille mon quotidien de travail/voyage avec gratitude. 
+
+![La fameux curry udon]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_curry_udon.jpg)
 
 ## Oui, j'ai regardé le film
 
@@ -21,8 +31,7 @@ J'avais hâte d'arriver à Hiroshima. Après tout, j'ai un bacc en histoire derr
 ```info
 Au cas-ou certain.es personnes me lisant ne sont pas encore au courant, c'est atrocement faux. On sait depuis longtemps que si le conflit s'est autant étiré, c'est en grande partie la faute des États-Unis. Je n'invente rien: plusieurs hauts gradés de l'armée américaine à l'époque n'ont[ jamais jugé militairement justifié](https://www.realclearpolitics.com/articles/2015/08/08/we_didnt_have_to_drop_the_bomb_127709.html) d'utiliser les bombes. Pire, certain affirment sans équivoque que c'était essentiellement une expérimentation de l'arme atomique. 
 ```
-
-
+![Hiroshima, mon amour]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_dome_night.jpg)
 
 Bref sans vouloir tomber dans la `white guilt` à outrance, mon passge à Hiroshima aura été un moment de questionnement intéressant. Si j'en retiens quelque chose, c'est ce sentiment qui est si bien capturé dans les premières minutes de *Hiroshima, mon amour*, ou le personnage d'Eji Okada répète inlassablement à sa compagne: *Tu ne connais pas Hiroshima*. Bien sûr, voir le dôme encore debout et arpenter le mémorial pour la paix ne laissent personne indifférent. Mais je crois qu'il est impossible pour moi, et la plupart des touristes qui transitent dans cette ville, de capter l'intensité de l'horreur laissée derrière par l'explosion et les radiations. 
 
@@ -36,11 +45,42 @@ D'abord, petit aparté. Mon passage à Hiroshima correspondait aussi avec ma pre
 
 Quand j'y pense, lors de mes semaines de travail ordinaires, j'attend déjà le vendredi avec impatience. Les semaines ou j'ai aussi des obligations et événements sociaux à tous les soirs, je finis épuisé. Imaginez en voyage! Je travaille généralement le matin et le soir, pour pouvoir explorer pendant l'après-midi. Quand j'avais 20 ans, je m'en sortais bien em dormant 5 heures et moins comme nuit. Aujourd'hui ... j'en ressens les conscéquences très vite. 
 
-Bref mon passage ici aura été un apprentissage pour trouver mon rythme, pour jongler avec la fatigue, mon envie de découvrir, mon obligation de travailler, et mon envie de socialiser. Tout ça est un beau défi et je dirais que j'ai trouvé mon rythme vers la fin de la semaine. La clé: me rapeller que le simple fait de pouvoir être au Japon en travaillant est un grand privilège auquel je n'aurais même jamais osé rêver il y a quelques années. C'est comme ma routine à Montréal ... mais sur la pause du dîner, je peux aller visiter un sanctuaire shinto et manger un curry udon authentique pour 8$. Tout est une question de perspective. Bref, j'accueille mon quotidien de travail/voyage avec gratitude. 
+Bref mon passage ici aura été un apprentissage pour trouver mon rythme, pour jongler avec la fatigue, mon envie de découvrir, mon obligation de travailler, et mon envie de socialiser. Tout ça est un beau défi et je dirais que j'ai trouvé mon rythme vers la fin de la semaine. La clé: me rapeller que le simple fait de pouvoir être au Japon en travaillant est un grand privilège auquel je n'aurais même jamais osé rêver il y a quelques années. C'est comme ma routine à Montréal ... mais sur la pause du dîner, je peux aller visiter un sanctuaire shinto et manger un curry udon authentique pour 8$. Tout est une question de perspective. Bref, j'accueille mon quotidien de travail/voyage avec gratitude. C'est fou ce qu'un changement de perspective peut accomplir!
 
 ![La fameux curry udon]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_curry_udon.jpg)
 
-## Le mémorial 
+## Un touriste à Hiroshima
 
-## Mon temps à Hiroshima 
+Cela va sans dire, comme je n'ai eu qu'une seule journée complète de libre sur place (j'ai choisi de me déplacer le dernier dimanche ... mauvsaise idée !), je n'ai pas pu visiter tous les incontournables de la ville, encore moins des environs. J'aurais facilement pu y passer la semaine à explorer sans m'ennuyer du tout. Mes impressions sont donc LOIN d'être un guide exhaustif d'Hiroshima. Voici donc un résumé de ce que mes parcelles de temps libre m'ont permis de découvrir. 
+
+### Le Parc du Mémorial de la Paix
+
+Mon auberge de jeunesse était située à environ 5 minutes à pied du parc du Mémorial de la Paix. Si j'avais à retourner à Hiroshima, je choisirais encore exactement cet emplacement. C'est un peu loin de la gare de train principale (45 minutes à pied), mais être près du parc n'as pas de prix ! Le parc est immense, et c'est autant un musée à aire ouverte qu'un lieu de vie génial. 
+
+![Le parc du Mémorial de la paix]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_peace_park.jpg)
+
+À toute heure de la journée, j'y ai croisé des touristes autant que des résidents. La fontaine, les bâtiments, la flamme éternelle, le fameux *Genbaku Dome*, tout vaut le coup d'oeil. Des panneux d'interprétation installés un peu partout peuvent vous renseigner sur l'histoire du parc. J'ai particulièrement aimé me balader dans le parc la nuit; l'illumination des monuments leur donne un air un peu plus grandiose dans le noir. Le parc comporte aussi un musée en la mémoire des victimes, gratuit, que je n'ai malheureusmeent pas eu le temps de visiter. 
+
+### Miyajima
+
+Si le parc du Mémorial est l'incontournable évident d'Hiroshima, l'île de Miyajima est sans conteste sa plus proche compétition. Cette île sacrée, renommée pour sa végétation luxuriante et ses temples shinto, est très populaire auprès des touristes de partout dans le monde. Sur ses plages, on retrouve entre autre la fameuse arche *torii* inondée au gré de la marée qui a été maintes fois photographiée. J'ai eu la chance de la visiter pendant une journée entière avec mon nouvel ami Ryan, croisé à l'auberge de jeunesse. Une de mes journées favorites du voyage entier. 
+
+![La fameuse]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_miyajima_torii.jpg)
+
+Plusieurs traversiers relient Hiroshima à Miyajima; le plus connu est celui de la JR (Japan Railway). À partir du parc mémorial, faudra se rendre au port en train et ensuite prendre le traversier, pour un total d'environ 75 minutes. Pour les plus pressés (moi y compris), une compagnie privée fait le trajet en bateau directement à partir du port en 45 minutes; c'est plus rapide, mais le prix est légèrement plus élevé (20 $ l'aller-retour). 
+
+Une fois sur l'île, on peut explorer le village et ses rues commerciales, qui regorgent d'opportunités pour toutes les papilles. On trouvera plusieurs spécialités locales (trop pour les lister ici), dont les *momiji manju*, des crèpes en forme d'érable fourées à la pâte de fêve rouge sucrée, ou les énormes huîtres d'Hiroshima, qu'on peut manger fraîches, grillées, ou même frites! Je conseille d'y aller tôt, car en après-midi le village ressemble à une fourmillière, tellement on y retrouve de visiteurs. 
+
+À mon avis, le déplacement sur l'île vaut bien une ascension du Mont Misen. Un funiculaire permet d'atteindre le sommet, mais il était brisé lors de mon passage. Qu'à cela ne tiennem j'avais envie d'une bonne rando! Ryan et moi avons été servi, avec une élévation non-négligeable d'environ 500 mètres. Avec la conversation qui roulait bon train et la magnifique végétation, le temps a filé plus vite qu'un bambin pris en plein déli. Le jeu en vaut largement la chandelle, avec des paysages à couper le souffle et la chance de visiter un magnifique sanctuaire. C'était le point culminant de ma journée, littéralement et figurativement. 
+
+![La fameuse]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_miyajima_misen.jpg)
+
+### La château d'Hiroshima 
+
+### Jardins et temple 
+
+
+
+
+
 
