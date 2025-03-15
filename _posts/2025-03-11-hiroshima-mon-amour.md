@@ -65,7 +65,7 @@ Mon auberge de jeunesse était située à environ 5 minutes à pied du parc du M
 
 Si le parc du Mémorial est l'incontournable évident d'Hiroshima, l'île de Miyajima est sans conteste sa plus proche compétition. Cette île sacrée, renommée pour sa végétation luxuriante et ses temples shinto, est très populaire auprès des touristes de partout dans le monde. Sur ses plages, on retrouve entre autre la fameuse arche *torii* inondée au gré de la marée qui a été maintes fois photographiée. J'ai eu la chance de la visiter pendant une journée entière avec mon nouvel ami Ryan, croisé à l'auberge de jeunesse. Une de mes journées favorites du voyage entier. 
 
-![La fameuse]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_miyajima_torii.jpg)
+![La fameuse porte torii]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_miyajima_torii.jpg)
 
 Plusieurs traversiers relient Hiroshima à Miyajima; le plus connu est celui de la JR (Japan Railway). À partir du parc mémorial, faudra se rendre au port en train et ensuite prendre le traversier, pour un total d'environ 75 minutes. Pour les plus pressés (moi y compris), une compagnie privée fait le trajet en bateau directement à partir du port en 45 minutes; c'est plus rapide, mais le prix est légèrement plus élevé (20 $ l'aller-retour). 
 
@@ -73,11 +73,27 @@ Une fois sur l'île, on peut explorer le village et ses rues commerciales, qui r
 
 À mon avis, le déplacement sur l'île vaut bien une ascension du Mont Misen. Un funiculaire permet d'atteindre le sommet, mais il était brisé lors de mon passage. Qu'à cela ne tiennem j'avais envie d'une bonne rando! Ryan et moi avons été servi, avec une élévation non-négligeable d'environ 500 mètres. Avec la conversation qui roulait bon train et la magnifique végétation, le temps a filé plus vite qu'un bambin pris en plein déli. Le jeu en vaut largement la chandelle, avec des paysages à couper le souffle et la chance de visiter un magnifique sanctuaire. C'était le point culminant de ma journée, littéralement et figurativement. 
 
-![La fameuse]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_miyajima_misen.jpg)
+![Vue sur la baie d'Hiroshima]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_miyajima_misen.jpg)
 
 ### La château d'Hiroshima 
 
-### Jardins et temple 
+Comme la majorité de la ville, le château d'Hiroshima a été complètement pulvérisé par la bombe atomique. Après un minutieux travail de restauration, il vit maintenant sa 2e vie comme musée accessible  aux touristes. On y met en scène le quotidien des seigneurs de l'époque féodale, diverses armes traditionelles,  japonaises, tout en expliquant l'exploit de construire un château sur une base aussi friable et sabloneuse qu'un lit de rivière. L'exposition est somme toute assez simple, mais vaut tout de même le détour si on est moindrement passionné d'histoire, (ne serait-ce que pour la vue du dernier étage). 
+
+![Le château]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_castle.jpg)
+
+
+### Un peu de verdure 
+
+À 30 minutes à pied de la gare de train, on retrouver une petite montagne sur laquelle est érigée la Pagode de la Paix, un des symboles pacifistes significatifs de la ville. Beaucoup moins fréquentée que le mémorial, elle vaut amplemement le détour. Pour s'y rendre, il faudra monter les 433 marches du sanctuaire Kindo Inari, une expérience qui revet l'ambiance mystique charactéristique des lieux sacrés shinto. 
+
+![L'ascension]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_kinko_inari.jpg)
+
+À mon humble avis, la vue sur la ville et les montagne environnantes est une récompense qui vaut largement l'effort. Je ne l'ai pas essayé, mais on dit que c'est encore mieux de nuit, quand la ville brille. 
+
+![Paysage urbain]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_panoramic.jpg)
+
+
+### LA culture culinaire d'Hiroshima
 
 
 
