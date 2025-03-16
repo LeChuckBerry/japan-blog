@@ -12,7 +12,7 @@ image: hiroshima_main.jpg
 
 ## Liens vers l'album ICloud
 
-Si vous voulez consulter mes photos / vidéos pris durant cette partie du voyage, voici [le lien vers l'album](https://www.icloud.com/sharedalbum/#B2AGY8gBYKRjXeM).
+Si vous voulez consulter mes photos / vidéos pris durant cette partie du voyage, voici [le lien vers l'album](https://www.icloud.com/sharedalbum/#B2A5nhQSTRELYFQ).
 
 ## Travailler à temps plein ... en voyage 
 
@@ -20,9 +20,9 @@ D'abord, petit aparté. Mon passage à Hiroshima correspondait aussi avec ma pre
 
 Quand j'y pense, lors de mes semaines de travail ordinaires, j'attend déjà le vendredi avec impatience. Les semaines ou j'ai aussi des obligations et événements sociaux à tous les soirs, je finis épuisé. Imaginez en voyage! Je travaille généralement le matin et le soir, pour pouvoir explorer pendant l'après-midi. Quand j'avais 20 ans, je m'en sortais bien em dormant 5 heures et moins comme nuit. Aujourd'hui ... j'en ressens les conscéquences très vite. 
 
-Bref mon passage ici aura été un apprentissage pour trouver mon rythme, pour jongler avec la fatigue, mon envie de découvrir, mon obligation de travailler, et mon envie de socialiser. Tout ça est un beau défi et je dirais que j'ai trouvé mon rythme vers la fin de la semaine. La clé: me rapeller que le simple fait de pouvoir être au Japon en travaillant est un grand privilège auquel je n'aurais même jamais osé rêver il y a quelques années. C'est comme ma routine à Montréal ... mais sur la pause du dîner, je peux aller visiter un sanctuaire shinto et manger un curry udon authentique pour 8$. Tout est une question de perspective. Bref, j'accueille mon quotidien de travail/voyage avec gratitude. 
+Bref mon passage ici aura été un apprentissage; trouver mon rythme, jongler avec la fatigue, mon envie de découvrir, mon obligation de travailler, et mon envie de socialiser. Tout ça est un beau défi et je dirais que j'ai trouvé mon rythme vers la fin de la semaine. La clé: me rapeller que le simple fait de pouvoir être au Japon en travaillant est un grand privilège auquel je n'aurais même jamais osé rêver il y a quelques années. C'est comme ma routine à Montréal ... mais sur la pause du dîner, je peux aller visiter un sanctuaire shinto et manger un curry udon ou un okonomiyaki style Hiroshima pour une poignée de change. Tout est une question de perspective. Bref, j'accueille mon quotidien de travail/voyage avec gratitude. 
 
-![La fameux curry udon]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_curry_udon.jpg)
+![Le curry udon]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_curry_udon.jpg)
 
 ## Oui, j'ai regardé le film
 
@@ -37,11 +37,11 @@ Bref sans vouloir tomber dans la `white guilt` à outrance, mon passge à Hirosh
 
 ![Hiroshima, mon amour]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_mon_amour.jpg)
 
-Il m'a par contre été possible d'entrevoir ce qu'est Hiroshima aujourd'hui: une ville accueillante, bourdonnante et drôlement humaine pour sa taille. Et c'est principalement de ça dont je vais rendre compte.
+Il m'a par contre été possible d'entrevoir ce qu'est Hiroshima aujourd'hui: une ville accueillante, bourdonnante et drôlement humaine pour sa taille.
 
 ## Travailler à temps plein ... en voyage 
 
-D'abord, petit aparté. Mon passage à Hiroshima correspondait aussi avec ma première semaine de travail à temps plein depuis le début de mon voyage. Je dois le dire, malgré la pluie qui m'a encouragé à rester à l'intérieur dans les premiers jours, trouver la motivation n'as pas toujours été facile. 
+D'abord, petit aparté. Mon passage à Hiroshima correspondait aussi avec ma première semaine de travail à temps plein depuis le début de mon voyage. Je dois le dire, malgré la pluie qui m'a encouragé à rester à l'intérieur dans les premiers jours, trouver la motivation n'as pas toujours été facile.
 
 Quand j'y pense, lors de mes semaines de travail ordinaires, j'attend déjà le vendredi avec impatience. Les semaines ou j'ai aussi des obligations et événements sociaux à tous les soirs, je finis épuisé. Imaginez en voyage! Je travaille généralement le matin et le soir, pour pouvoir explorer pendant l'après-midi. Quand j'avais 20 ans, je m'en sortais bien em dormant 5 heures et moins comme nuit. Aujourd'hui ... j'en ressens les conscéquences très vite. 
 
@@ -84,18 +84,17 @@ Comme la majorité de la ville, le château d'Hiroshima a été complètement pu
 
 ### Un peu de verdure 
 
-À 30 minutes à pied de la gare de train, on retrouver une petite montagne sur laquelle est érigée la Pagode de la Paix, un des symboles pacifistes significatifs de la ville. Beaucoup moins fréquentée que le mémorial, elle vaut amplemement le détour. Pour s'y rendre, il faudra monter les 433 marches du sanctuaire Kindo Inari, une expérience qui revet l'ambiance mystique charactéristique des lieux sacrés shinto. 
+À 30 minutes à pied de la gare de train, on retrouver une petite montagne sur laquelle est érigée la Pagode de la Paix, un des symboles pacifistes significatifs de la ville. Elle contient des cendres du Bouddha offertes par gouvernement Indien et des moines bouddhistes de Mongolie en pour favoriser une paix durable à Hiroshima. Pour s'y rendre, il faudra monter les 433 marches du sanctuaire Kindo Inari, une expérience qui revet l'ambiance mystique charactéristique des lieux sacrés shinto. 
 
 ![L'ascension]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_kinko_inari.jpg)
 
-À mon humble avis, la vue sur la ville et les montagne environnantes est une récompense qui vaut largement l'effort. Je ne l'ai pas essayé, mais on dit que c'est encore mieux de nuit, quand la ville brille. 
+À mon humble avis, la vue sur la ville et les montagne environnantes est une récompense qui suffit largement à l'effort. Je ne l'ai pas essayé, mais on dit que c'est encore mieux de nuit, quand la ville brille de tout ses feux. 
 
 ![Paysage urbain]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_panoramic.jpg)
 
+Au détour du château d'Hiroshima, on peut aussi se laisser charmer par les arrangements minutieux du jardin Shukkein. Datant de 1620, il a été mis en place par le clan Asano, *daimyos* de la région d'Hiroshima durant l'ère Edo. J'ai particulièrement apprécié la collection de bonzai qui y était exposée, ainsi que les magnifiques pruniers en fleur. 
 
-### LA culture culinaire d'Hiroshima
-
-
+![Jardin Shukkeien]({{site.url}}/{{site.baseurl}}/assets/img/hiroshima_shukkeien.jpg)
 
 
 
